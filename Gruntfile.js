@@ -41,7 +41,6 @@ module.exports = function(grunt) {
         options: {
           remote: 'live',
           branch: 'master',
-          // cwd: '/'
         }
       }
     },
